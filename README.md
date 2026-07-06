@@ -38,31 +38,7 @@ The project showcases reusable React components, responsive layouts, dark/light 
 
 ---
 
-# 📸 Preview
 
-## Home Page
-
-<img src="./screenshots/home.png" width="100%" />
-
----
-
-## Products Section
-
-<img src="./screenshots/products.png" width="100%" />
-
----
-
-## Dark Mode
-
-<img src="./screenshots/dark-mode.png" width="100%" />
-
----
-
-## Footer
-
-<img src="./screenshots/footer.png" width="100%" />
-
----
 
 # 🛠️ Tech Stack
 
